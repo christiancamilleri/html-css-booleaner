@@ -26,3 +26,16 @@ header{
 #didascaliafoto{
     font-size: 10px;
 }
+
+#important{
+    background-color: yellow;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+ul{
+    padding-left: 20px;
+}
