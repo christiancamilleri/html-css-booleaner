@@ -1,0 +1,16 @@
+body {
+    
+}
+
+header{
+    height: 170px;
+    background-image: url(/img/pattern.png);
+    background-color: #4EA0FF;
+    
+}
+
+img{
+    height: 50px;
+    width: 200px;
+    padding-top: 100px;
+}
