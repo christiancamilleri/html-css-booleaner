@@ -30,16 +30,6 @@ header{
     font-size: 10px;
 }
 
-#timimage1{
-    height: 580px;
-    width: 680px;
-}
-
-#timimage2{
-    height: 580px;
-    width: 600px;
-}
-
 #nome{
     color: #30AFE6;
 }
@@ -92,3 +82,4 @@ ul{
     color: white;
     font-size: 30px;
 }
+
